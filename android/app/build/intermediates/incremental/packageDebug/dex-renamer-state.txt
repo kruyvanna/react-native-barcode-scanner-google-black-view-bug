@@ -1,0 +1,4 @@
+#Sat Aug 26 11:16:28 ICT 2017
+base.0=/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

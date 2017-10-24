@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_b0b6cbc4f81e8190220b7fe95eb90f1cd1e8088f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_6ac06720ecba382ffff95edd157beb06484a6d99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_f509006cc0fe21e8b1de83d3a00f534cc07d6a0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_04d3952ead8fb2cce7a433b5438cc4b5aaed02de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_f0584d24e640717f7c59c021904855f91f51e2fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_6370a08c18447ea03f36ec2b12cfc290d80f160a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_0d90665b55f2a1d9eb2b1ce00b405776bc93dc93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_5892391b56d00c7a94e1e057afad16f277981429.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.47.2_c9c52b372d130ddd22ce9b17f8ec1bbdd50777db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/exploded-aar/BlackViewBug/react-native-barcode-scanner-google/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="808f195a0ab159e57d4dc310a11ba554851fd034">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/BlackViewBug-react-native-barcode-scanner-google-unspecified_cede9372936067ec1e678ab1ef6002f4127ade84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_02a0c100c811cfe4826d1af119e60bb6bca54fdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_1f42b04ffe1e89e975280aa2772d2e0dd21d54d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_454d9e4203366a6d13e7c23ca6d492d78aee90e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_bb598ca2be5436d8c61b7781273389181a9b9b7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_7594b8aaa76124b309f4bd4f89ab104ec6bfd924.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_1567403668cfbab7e84abfe4cbd1e2a8e2499709.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_f67da5d2a07fe949b5639dbe15a13b1365474c66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_dc782f03f7a7d249854441ea16e7d9a85804780b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-8.4.0_d3bd4d2462d15c1f1503935d565dd90424b68cbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_a647a97c181c693f1c6f2f12d3696c9c4b8329b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_116027869baa1f2d4dfe9a98188a51ab6accb7c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_dd8c1832423fbb800490d6e25b3a6a6634fa9cc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3a627546742c12279b244f5a7d55f1f5ccf44d73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_770acdca08213d28540ace9820f0cf8523a35f88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/kruyvanna/Projects/opensource/react-native-barcode-scanner-google-black-view-bug/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_41ab601a4913ec46694ddb178a6a6dcf12ced618.jar" />
+    </item>
+
+</items>
