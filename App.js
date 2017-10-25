@@ -26,7 +26,7 @@ export default class BarcodeApp extends Component {
   render() {
     const { switched } = this.state
     return (
-      <View style={{ flex: 1 }}>
+      <View style={styles.container}>
         <TouchableOpacity
           style={styles.button}
           onPress={() => this.handleSwitch()}
@@ -53,12 +53,13 @@ export default class BarcodeApp extends Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center'
+    backgroundColor: '#ff0',
+    borderBottomWidth: 1,
+    borderColor: 'black'
   },
   button: {
-    height: 50
+    height: 60,
+    backgroundColor: 'blue'
   },
   scanner: {
     flex: 1
