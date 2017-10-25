@@ -14,9 +14,12 @@ import { StackNavigator } from 'react-navigation'
 const Test = props => {
 	return (
 		<View style={styles.container}>
-			<Text>Hello</Text>
-			<TouchableOpacity onPress={() => props.navigation.navigate('Home')}>
-				<Text>Go To Scanner</Text>
+			<Text>Other Page</Text>
+			<TouchableOpacity
+				style={styles.button}
+				onPress={() => props.navigation.goBack(null)}
+			>
+				<Text>Go Back</Text>
 			</TouchableOpacity>
 		</View>
 	)
@@ -44,40 +47,10 @@ const styles = StyleSheet.create({
 		alignItems: 'center',
 		backgroundColor: '#0f0'
 	},
-	container2: {
-		flex: 1,
-		flexDirection: 'column',
-		backgroundColor: '#fff',
-		justifyContent: 'space-between'
-	},
-	preview: {
-		flex: 1,
-		justifyContent: 'center',
-		backgroundColor: '#000'
-	},
-	capture: {
-		flex: 0,
-		width: 60,
-		height: 60,
-		marginTop: 5,
-		borderRadius: 30,
-		backgroundColor: 'white'
-	},
-	photoLabel: {
-		padding: 2,
-		backgroundColor: '#00000020',
-		color: 'white'
-	},
-	doneIcon: {
-		marginTop: 20,
-		display: 'flex',
-		alignItems: 'center'
-	},
 	button: {
-		alignSelf: 'center'
-	},
-	cameraType: {
-		alignSelf: 'flex-end'
+		alignSelf: 'center',
+		height: 60,
+		backgroundColor: '#55ACEE'
 	}
 })
 
